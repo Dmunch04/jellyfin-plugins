@@ -1,0 +1,14 @@
+---
+name: "jellyfin-plugin-collectionUtils"
+guid: "ee7d4525-d4e2-4612-8df9-2b76d0d63372"
+version: "1.0.0.0"
+targetAbi: "10.9.0.0"
+framework: "net6.0"
+build_type: "dotnet"
+dotnet_configuration: "Release"
+overview: "Collection/BoxSet Utilities"
+description: "Collection/BoxSet Utilities"
+category: "General"
+owner: "jellyfin"
+artifacts:
+- "Jellyfin.Plugin.CollectionUtils.dll"
